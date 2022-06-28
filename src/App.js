@@ -1,4 +1,5 @@
 import './App.css';
+
 // import UseStateAdvansed from './components/useStateAdvansed/UseStateAdvansed';
 // import UseStateObject from './components/useStateAdvansed/UseStateObject';
 // import UseEffectBesics from './components/useEffect/UseEffectBesics';
@@ -9,6 +10,7 @@ function App() {
     <div className="App">
       <MultipleRendering />
    
+
     </div>
   );
 }
