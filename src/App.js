@@ -1,11 +1,13 @@
 import './App.css'
-import UseReducer from './components/useReducer/UseReducer';
+import ContextApi from './components/contextApi/ContextApi';
+// import PropDrilling from './components/prop-drilling/PropDrilling';
+
 
 
 function App() {
   return (
     <div className="App">
-      <UseReducer />
+      <ContextApi />
     </div>
   );
 }
