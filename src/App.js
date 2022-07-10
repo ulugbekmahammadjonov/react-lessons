@@ -1,7 +1,6 @@
 
 import './App.css'
-import ContextApi from './components/contextApi/ContextApi';
-// import PropDrilling from './components/prop-drilling/PropDrilling';
+import Index from './components/prop-types/Index';
 
 
 
@@ -10,7 +9,7 @@ function App() {
   return (
     <div className="App">
 
-      <ContextApi />
+      <Index />
 
     </div>
   );
